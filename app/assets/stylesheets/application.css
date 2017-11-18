@@ -7,8 +7,8 @@ li{
   padding: 5px;
 }
 li:hover{
-  background-color: #E1F5FE;
-  border-radius: 3px;
+  background-color: #848080;
+  border-radius: 200px;
 }
 span{
   font-size: 14px;
@@ -23,6 +23,6 @@ span{
 }
 #add-new-todo-button{
   display: block;
-  background-color: #03A9F4;
+  background-color: #7b31a0;
   margin-top: 10px;
 }
